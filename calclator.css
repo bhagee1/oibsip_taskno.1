@@ -1,0 +1,35 @@
+input[type="button"]{
+    width: 100%;
+    padding: 10px 20px;
+    font-weight: bold;
+    font-size: 25px;
+    border: none;
+    }
+.calculator{
+    border: 10px solid gold;
+    height: 300;
+    background-color: aqua;
+    width: 200;
+    padding: 10px;
+    margin: auto;
+
+}
+.main{
+    background-color: cornsilk;
+}
+h1{
+    background-color: none;
+    color: maroon;
+    margin-left: 10px;
+    text-align: center;
+}
+.box{
+    width: 99%;
+    height: 1cm;
+    background-color: lightgrey;
+    font-size: larger;
+    font-weight: bolder;
+    border-radius: 5px;
+    border: 0.3px;
+    color: solid black;
+}
